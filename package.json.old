@@ -1,0 +1,29 @@
+{
+  "name": "basejavascripttempate",
+  "version": "1.0.0",
+  "description": "Initial DJ3 in VSCode on a Mac",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steveyoungca/DJ3Training.git"
+  },
+  "author": "Steve Young",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/steveyoungca/DJ3Training/issues"
+  },
+  "homepage": "https://github.com/steveyoungca/DJ3Training#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "bower": "^1.8.2",
+    "browser-sync": "^2.23.6",
+    "font-awesome": "^4.7.0",
+    "gulp": "^3.9.1",
+    "jquery": "^3.3.1",
+    "popper": "^1.0.1",
+    "toastr": "^2.1.4"
+  }
+}

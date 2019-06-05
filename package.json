@@ -1,0 +1,25 @@
+{
+  "name": "viewjstraining",
+  "version": "1.0.0",
+  "description": "Set up template for VueJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steveyoungca/ViewJSTraining.git"
+  },
+  "author": "Steve Young",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/steveyoungca/ViewJSTraining/issues"
+  },
+  "homepage": "https://github.com/steveyoungca/ViewJSTraining#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper": "^1.0.1",
+    "toastr": "^2.1.4"
+  }
+}
