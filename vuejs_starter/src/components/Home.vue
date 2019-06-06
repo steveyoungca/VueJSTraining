@@ -6,7 +6,7 @@
 <script>
 export default {
   name: 'Home'
-};
+}
 </script>
 <style scoped>
 .homeText{
@@ -15,6 +15,6 @@ export default {
     text-align: center;
     position: relative;
     top:30px;
-    text-shadow: 2px 2px 2px gray;
+    text-shadow: 2px 2px 2px gray
 }
 </style>

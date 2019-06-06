@@ -83,3 +83,12 @@ npm run dev
 http://localhost:8080/#/whatever
 
 http://localhost:8080/
+
+
+ Cannot find module 'js-yaml'
+
+ cd vuejs_starter
+
+ npm install eslint
+ npm install -D eslint eslint-loader
+ npm i eslint-plugin-vue
