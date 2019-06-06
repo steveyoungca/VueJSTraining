@@ -68,8 +68,18 @@ Documentation can be found at https://vuejs-templates.github.io/webpack
 Quickstart
 To use this template, scaffold a project with vue-cli. It is recommended to use npm 3+ for a more efficient dependency tree.
 
+npm install --save bootstrap-vue 
+
 $ npm install -g vue-cli
 $ vue init webpack my-project
 $ cd my-project
 $ npm install
 $ npm run dev
+
+
+npm i bootstrap-vue
+
+npm run dev
+http://localhost:8080/#/whatever
+
+http://localhost:8080/
