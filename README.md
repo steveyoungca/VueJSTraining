@@ -98,3 +98,25 @@ https://github.com/webpack/webpack
 
  44
  
+
+ npm install --save-dev eslint eslint-plugin-vue
+
+ https://eslint.vuejs.org/user-guide/
+ https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+
+
+https://github.com/microsoft/vscode-eslint/issues/42
+ BIG ISSUE
+ {
+    "eslint.options": {
+        "extensions": [".js", ".vue"]
+    },
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "html",
+        "vue"
+    ]
+}
+
+https://scotch.io/tutorials/getting-started-with-vue-router

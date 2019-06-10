@@ -13,9 +13,12 @@
   "dependencies": {
     "bootstrap": "^4.3.1",
     "bootstrap-vue": "^2.0.0-rc.22",
+    "js-yaml": "latest",
+    "popper": "^1.0.1",
+    "toastr": "^2.1.4",
     "vue": "^2.6.10",
     "vue-router": "^3.0.1",
-    "js-yaml": "latest"
+    "vue-toast": "^3.1.0"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
