@@ -1,5 +1,5 @@
 <template>
- <b-container id="app">
+  <b-container id="app">
     <b-row>
       <b-col>
         <navbar/>
@@ -10,6 +10,7 @@
         <router-view/>
       </b-col>
     </b-row>
+    <img src="./assets/logo.png">
   </b-container>
 </template>
 
@@ -26,7 +27,7 @@ export default {
 
 <style>
 #app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  font-family: "Avenir", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
